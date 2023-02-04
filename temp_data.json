@@ -1,0 +1,154 @@
+[
+ {
+  "Ürün Stok Kod": 231104203,
+  "Ürün Adı": "ÜLKER ÇİKOLATA SÜTLÜ KARE ÇİKOLATA",
+  "Raf Lokasyon": "A1_1_1",
+  "Birim": "Adet",
+  "Stok Adet": 15,
+  "Gönderici Firma": "ÜLKER"
+ },
+ {
+  "Ürün Stok Kod": 228564053,
+  "Ürün Adı": "ÜLKER ÇİKOLATA ANTEP FISTIKLI SÜTLÜ KARE ÇİKOLATA",
+  "Raf Lokasyon": "A1_1_2",
+  "Birim": "Adet",
+  "Stok Adet": 36,
+  "Gönderici Firma": "ÜLKER"
+ },
+ {
+  "Ürün Stok Kod": 2015365670,
+  "Ürün Adı": "ÜLKER ÇİKOLATA %60 BİTTER KARE ÇİKOLATA",
+  "Raf Lokasyon": "A1_1_3",
+  "Birim": "Adet",
+  "Stok Adet": 25,
+  "Gönderici Firma": "ÜLKER"
+ },
+ {
+  "Ürün Stok Kod": 1616272735,
+  "Ürün Adı": "ÜLKER ÇİKOLATA ANTEP FISTIKLI BEYAZ KARE ÇİKOLATA",
+  "Raf Lokasyon": "A1_2_1",
+  "Birim": "Adet",
+  "Stok Adet": 3,
+  "Gönderici Firma": "ÜLKER"
+ },
+ {
+  "Ürün Stok Kod": 78604271,
+  "Ürün Adı": "ÜLKER ÇİKOLATA FINDIKLI VE ÜZÜMLÜ SÜTLÜ KARE ÇİKOLATA",
+  "Raf Lokasyon": "A1_2_2",
+  "Birim": "Adet",
+  "Stok Adet": 4,
+  "Gönderici Firma": "ÜLKER"
+ },
+ {
+  "Ürün Stok Kod": 682817198,
+  "Ürün Adı": "ÜLKER ÇİKOLATA FINDIKLI SÜTLÜ KARE ÇİKOLATA",
+  "Raf Lokasyon": "A1_2_3",
+  "Birim": "Adet",
+  "Stok Adet": 3,
+  "Gönderici Firma": "ÜLKER"
+ },
+ {
+  "Ürün Stok Kod": 1124352011,
+  "Ürün Adı": "Kavrulmuş Siyah Ay Çekirdeği",
+  "Raf Lokasyon": "A1_2_4",
+  "Birim": "Adet",
+  "Stok Adet": 96,
+  "Gönderici Firma": "TADIM"
+ },
+ {
+  "Ürün Stok Kod": 532881683,
+  "Ürün Adı": "Kavrulmuş Bol Tuzlu Siyah Ayçekirdeği",
+  "Raf Lokasyon": "A1_3_1",
+  "Birim": "Adet",
+  "Stok Adet": 75,
+  "Gönderici Firma": "TADIM"
+ },
+ {
+  "Ürün Stok Kod": 1420578458,
+  "Ürün Adı": "Kavrulmuş Kabak Çekirdeği",
+  "Raf Lokasyon": "A1_3_2",
+  "Birim": "Adet",
+  "Stok Adet": 35,
+  "Gönderici Firma": "TADIM"
+ },
+ {
+  "Ürün Stok Kod": 1274702146,
+  "Ürün Adı": "Kavrulmuş Tuzsuz Kabak Çekirdeği",
+  "Raf Lokasyon": "A1_3_3",
+  "Birim": "Adet",
+  "Stok Adet": 87,
+  "Gönderici Firma": "TADIM"
+ },
+ {
+  "Ürün Stok Kod": 450941801,
+  "Ürün Adı": "Kavrulmuş Fındık İçi",
+  "Raf Lokasyon": "A1_4_1",
+  "Birim": "Adet",
+  "Stok Adet": 66,
+  "Gönderici Firma": "TADIM"
+ },
+ {
+  "Ürün Stok Kod": 246899544,
+  "Ürün Adı": "Karışık Kuruyemiş Favori",
+  "Raf Lokasyon": "A2_1_1",
+  "Birim": "Adet",
+  "Stok Adet": 62,
+  "Gönderici Firma": "TADIM"
+ },
+ {
+  "Ürün Stok Kod": 1513397483,
+  "Ürün Adı": "Karışık Kuruyemiş Karnaval",
+  "Raf Lokasyon": "A2_1_2",
+  "Birim": "Adet",
+  "Stok Adet": 35,
+  "Gönderici Firma": "TADIM"
+ },
+ {
+  "Ürün Stok Kod": 995034929,
+  "Ürün Adı": "Karışık Kuruyemiş Klasik",
+  "Raf Lokasyon": "A2_1_3",
+  "Birim": "Adet",
+  "Stok Adet": 45,
+  "Gönderici Firma": "TADIM"
+ },
+ {
+  "Ürün Stok Kod": 1569960392,
+  "Ürün Adı": "Yüksek Proteinli Pancake",
+  "Raf Lokasyon": "A2_2_1",
+  "Birim": "Adet",
+  "Stok Adet": 54,
+  "Gönderici Firma": "DR.Oetker"
+ },
+ {
+  "Ürün Stok Kod": 968792806,
+  "Ürün Adı": "Yüksek Proteinli Bardakta Puding Bitter Çikolatalı",
+  "Raf Lokasyon": "A2_2_2",
+  "Birim": "Adet",
+  "Stok Adet": 67,
+  "Gönderici Firma": "DR.Oetker"
+ },
+ {
+  "Ürün Stok Kod": 1743343596,
+  "Ürün Adı": "Yüksek Proteinli Bardakta Puding Çilekli",
+  "Raf Lokasyon": "A2_2_3",
+  "Birim": "Adet",
+  "Stok Adet": 13,
+  "Gönderici Firma": "DR.Oetker"
+ },
+ {
+  "Ürün Stok Kod": 1452999534,
+  "Ürün Adı": "Yüksek Proteinli Milkshake Bitter Çikolatalı",
+  "Raf Lokasyon": "A2_3_1",
+  "Birim": "Adet",
+  "Stok Adet": 57,
+  "Gönderici Firma": "DR.Oetker"
+ },
+ {
+  "Ürün Stok Kod": 399019301,
+  "Ürün Adı": "Yüksek Proteinli Milkshake Orman Meyveli",
+  "Raf Lokasyon": "A2_3_2",
+  "Birim": "Adet",
+  "Stok Adet": 32,
+  "Gönderici Firma": "DR.Oetker"
+ }
+]
