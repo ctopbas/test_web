@@ -28,7 +28,7 @@
   "Ürün Adı": "ÜLKER ÇİKOLATA ANTEP FISTIKLI BEYAZ KARE ÇİKOLATA",
   "Raf Lokasyon": "A1_2_1",
   "Birim": "Adet",
-  "Stok Adet": 3,
+  "Stok Adet": 0,
   "Gönderici Firma": "ÜLKER"
  },
  {
@@ -60,7 +60,7 @@
   "Ürün Adı": "Kavrulmuş Bol Tuzlu Siyah Ayçekirdeği",
   "Raf Lokasyon": "A1_3_1",
   "Birim": "Adet",
-  "Stok Adet": 75,
+  "Stok Adet": 0,
   "Gönderici Firma": "TADIM"
  },
  {
@@ -84,13 +84,13 @@
   "Ürün Adı": "Kavrulmuş Fındık İçi",
   "Raf Lokasyon": "A1_4_1",
   "Birim": "Adet",
-  "Stok Adet": 66,
+  "Stok Adet": 0,
   "Gönderici Firma": "TADIM"
  },
  {
   "Ürün Stok Kod": 246899544,
   "Ürün Adı": "Karışık Kuruyemiş Favori",
-  "Raf Lokasyon": "A2_1_1",
+  "Raf Lokasyon": "A2_4_2",
   "Birim": "Adet",
   "Stok Adet": 62,
   "Gönderici Firma": "TADIM"
@@ -98,7 +98,7 @@
  {
   "Ürün Stok Kod": 1513397483,
   "Ürün Adı": "Karışık Kuruyemiş Karnaval",
-  "Raf Lokasyon": "A2_1_2",
+  "Raf Lokasyon": "A2_4_3",
   "Birim": "Adet",
   "Stok Adet": 35,
   "Gönderici Firma": "TADIM"
@@ -116,7 +116,7 @@
   "Ürün Adı": "Yüksek Proteinli Pancake",
   "Raf Lokasyon": "A2_2_1",
   "Birim": "Adet",
-  "Stok Adet": 54,
+  "Stok Adet": 0,
   "Gönderici Firma": "DR.Oetker"
  },
  {
@@ -148,7 +148,39 @@
   "Ürün Adı": "Yüksek Proteinli Milkshake Orman Meyveli",
   "Raf Lokasyon": "A2_3_2",
   "Birim": "Adet",
-  "Stok Adet": 32,
+  "Stok Adet": 0,
+  "Gönderici Firma": "DR.Oetker"
+ },
+ {
+  "Ürün Stok Kod": 1569960392,
+  "Ürün Adı": "Yüksek Proteinli Pancake",
+  "Raf Lokasyon": "A2_3_3",
+  "Birim": "Adet",
+  "Stok Adet": 15,
+  "Gönderici Firma": "DR.Oetker"
+ },
+ {
+  "Ürün Stok Kod": 968792806,
+  "Ürün Adı": "Yüksek Proteinli Bardakta Puding Bitter Çikolatalı",
+  "Raf Lokasyon": "A2_4_1",
+  "Birim": "Adet",
+  "Stok Adet": 67,
+  "Gönderici Firma": "DR.Oetker"
+ },
+ {
+  "Ürün Stok Kod": 1743343596,
+  "Ürün Adı": "Yüksek Proteinli Bardakta Puding Çilekli",
+  "Raf Lokasyon": "A2_4_2",
+  "Birim": "Adet",
+  "Stok Adet": 0,
+  "Gönderici Firma": "DR.Oetker"
+ },
+ {
+  "Ürün Stok Kod": 1452999534,
+  "Ürün Adı": "Yüksek Proteinli Milkshake Bitter Çikolatalı",
+  "Raf Lokasyon": "A2_4_3",
+  "Birim": "Adet",
+  "Stok Adet": 57,
   "Gönderici Firma": "DR.Oetker"
  }
 ]
